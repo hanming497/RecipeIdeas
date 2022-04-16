@@ -4,6 +4,14 @@ This project is a project build on a MEAN Stack (MongoDB, Express, Angular, Node
 
 # Screenshots
 
+Below are screenshots of the app:
+
+#
+
+![image](https://media.git.generalassemb.ly/user/40685/files/1a607d00-9c5f-11ec-98f0-d61a536b67fc)
+
+
+
 Here is a wireframe of the intended product:
 
 #
@@ -18,14 +26,12 @@ Below is my ERD:
 #
 
 ![image](https://media.git.generalassemb.ly/user/40685/files/c904bd80-9c5f-11ec-8d1a-4402a07604a2)
+![image](https://user-images.githubusercontent.com/22383404/163689946-87c9fd17-3263-4d9b-83df-e96a2ee793e3.png)
+![image](https://user-images.githubusercontent.com/22383404/163689954-b865ab78-b6ad-4ce4-8cfb-d7cfd32eb1bb.png)
 
 #
 
-Below are screenshots of the app:
 
-#
-
-![image](https://media.git.generalassemb.ly/user/40685/files/1a607d00-9c5f-11ec-98f0-d61a536b67fc)
 
 # Technologies Used
 
