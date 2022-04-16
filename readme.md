@@ -1,4 +1,4 @@
-# HelloFreshbutworse:(
+# HelloFreshInspired
 
 This project is a project build on a MEAN Stack (MongoDB, Express, Angular, Node). The main purpose of the project was to understand RESTful routes better as well as get familiar with Angular as a Framework.
 
